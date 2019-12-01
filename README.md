@@ -29,4 +29,4 @@ Depois é só entrar na pasta do adb tools e executar os comandos através do te
     - O prompt do sqlite será exibido dessa forma: sqlite>
     - Agora é só digitar comandos sql da tabela que deseja consultar. Exemplo: select * from cliente; Irá mostrar os dados inseridos na tabela.
     
-    ![Imagem Select ADB - SQLite](https://github.com/damiana/app-crud-cliente-sqlite/select_com_sqlite_adb.png)
+    ![Imagem Select ADB - SQLite](https://github.com/damiana/app-crud-cliente-sqlite/blob/master/select_com_sqlite_adb.png)
