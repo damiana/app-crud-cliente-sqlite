@@ -1,4 +1,4 @@
-package fatec.crud;
+package fatec.exemplo.sqlite;
 
 import org.junit.Test;
 

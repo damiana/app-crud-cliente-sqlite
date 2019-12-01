@@ -1,4 +1,4 @@
-package fatec.crud;
+package fatec.exemplo.sqlite;
 
 import android.content.Context;
 
@@ -22,6 +22,6 @@ public class ExampleInstrumentedTest {
         // Context of the app under test.
         Context appContext = InstrumentationRegistry.getInstrumentation().getTargetContext();
 
-        assertEquals("fatec.crud", appContext.getPackageName());
+        assertEquals("fatec.exemplo.sqlite", appContext.getPackageName());
     }
 }
